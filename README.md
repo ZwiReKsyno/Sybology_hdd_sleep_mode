@@ -36,3 +36,4 @@ mount -B /tmp/log  /var/log)
 On Shutdown/root
 cp -a -f /tmp/log/.     /var/logbak
 ```
+<p align="leftr"><img src="images/schedule1.png"></p>
